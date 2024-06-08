@@ -8,6 +8,8 @@
 > 1. [Models](https://github.com/Modding-Haven/AW2-Modding-Documentation/wiki/Models)
 > 1. [Scripts](https://github.com/Modding-Haven/AW2-Modding-Documentation/wiki/Scripts)
 
+***
+
 ### Tools:
 
 | Name | Description | Link |
