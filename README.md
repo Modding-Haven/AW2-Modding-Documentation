@@ -14,7 +14,7 @@
 
 | Name | Description | Link |
 | --------  | ------------------- | --------------------- |
-| Alan Wake 2 Mod Loader | A mod loader for Alan Wake 2 using loose file loading. | [Github](https://github.com/praydog/alan-wake-2-mod-loader) \ [Nexus](https://www.nexusmods.com/alanwake2/mods/19) | 
+| Alan Wake 2 Mod Loader | A mod loader for Alan Wake 2 using loose file loading. | [Github](https://github.com/praydog/alan-wake-2-mod-loader) \ [Nexus Mods](https://www.nexusmods.com/alanwake2/mods/19) | 
 | Alan Wake 2 RMDTOC Tool | Simple tool for editing the RMDTOC archive for Alan Wake 2. | [Github](https://github.com/amrshaheen61/Alan-Wake-2-RMDTOC-Tool) |
 | AW2 Tex Noesis Plugin | A plugin for Rich Whitehouse's Noesis to import and export Alan Wake 2 .tex files. | [Github](https://github.com/SilverEzredes/fmt_AW2_TEX-Noesis-Plugin) |
 | AW2 Material Template | Alan Wake 2 .material template for 010 Editor. | [Github](https://github.com/SilverEzredes/AW2_material.bt) |
