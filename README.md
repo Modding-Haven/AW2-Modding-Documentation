@@ -1,12 +1,12 @@
 # Welcome to the Alan Wake 2 Modding Wiki!
 
 ### Table of Contents:
-> 1. [Installing Mods](https://github.com/Modding-Haven/AW2-Modding-Documentation/wiki/Installing-Mods)
-> 1. [Extracting Game Files](https://github.com/Modding-Haven/AW2-Modding-Documentation/wiki/Extracting-Game-Files)
-> 1. [Textures](https://github.com/Modding-Haven/AW2-Modding-Documentation/wiki/Textures)
-> 1. [Materials](https://github.com/Modding-Haven/AW2-Modding-Documentation/wiki/Materials)
-> 1. [Models](https://github.com/Modding-Haven/AW2-Modding-Documentation/wiki/Models)
-> 1. [Scripts](https://github.com/Modding-Haven/AW2-Modding-Documentation/wiki/Scripts)
+> 1. [Installing Mods](https://github.com/Havens-Night/AW2-Modding-Documentation/wiki/Installing-Mods)
+> 1. [Extracting Game Files](https://github.com/Havens-Night/AW2-Modding-Documentation/wiki/Extracting-Game-Files)
+> 1. [Textures](https://github.com/Havens-Night/AW2-Modding-Documentation/wiki/Textures)
+> 1. [Materials](https://github.com/Havens-Night/AW2-Modding-Documentation/wiki/Materials)
+> 1. [Models](https://github.com/Havens-Night/AW2-Modding-Documentation/wiki/Models)
+> 1. [Scripts](https://github.com/Havens-Night/AW2-Modding-Documentation/wiki/Scripts)
 
 ***
 
@@ -20,7 +20,3 @@
 | AW2 Material Template | Alan Wake 2 .material template for 010 Editor. | [Github](https://github.com/SilverEzredes/AW2_material.bt) |
 | Binfbx Blender Plugin |  Blender addon for importing *.binfbx files from Alan Wake 2. | [Github](https://github.com/riverence/io_scene_binfbx) |
 | Unluau | A decompiler for Luau. | [Github](https://github.com/atrexus/unluau) |
-
-
-### Discord:
-If you want to contribute or need support join the [Haven's Night Discord](https://discord.gg/9Vr2SJ3)
